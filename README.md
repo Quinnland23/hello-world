@@ -1,2 +1,2 @@
 # hello-world
-Test setup
+This is an example of a text edit.
